@@ -34,4 +34,8 @@
    <div style="width: 960px; color:navy; background-color:pink; border:2px solid darkblue; padding:5px>
        <p>my fourth webpage</p>
    </div>
+               </div>
+   <div style="width: 360px; color:navy; background-color:red; border:2px solid darkblue; padding:5px>
+       <p>my fourth webpage</p>
+   </div>
  </div>
