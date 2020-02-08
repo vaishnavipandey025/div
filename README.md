@@ -18,11 +18,13 @@
 }
    div{
    position: relative;
-   top: 100px;
-   left: 100px;
+   top: 200px;
+   left: 200px;
    }
    #header{
-   height: 230px
+   height: 230px;
+   background-repeat: no-repeat;
+   font-family: 'shift',sans-serif;
    }
 </style>
 </head>
