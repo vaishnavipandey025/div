@@ -9,6 +9,13 @@
    border:2px solid darkblue;
    padding:5px;
 }
+   .inner-div{
+   width:360px;
+   color:navy;
+   background-color:red;
+   border:2px solid darkblue;
+   padding:5px;
+}
    div{
    position: relative;
    top: 100px;
